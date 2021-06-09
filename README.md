@@ -21,6 +21,7 @@ I'm Full Stack JavaScript developer and Technical writer, I help people learn Re
 ### React native📱
 
 - 📌 [How to Add Authentication to React Native in Three Steps Using Firebase](https://www.freecodecamp.org/news/how-to-add-authentication-to-react-native-in-three-steps-using-firebase/).
+- 📌 [Comparing Analytics Tools in React Native](https://blog.logrocket.com/comparing-react-native-analytics-tools/)
 - 📌 [Xcode for React Native developers: Tutorial and best practices](https://blog.logrocket.com/xcode-for-react-native-developers-tutorial-and-best-practices/)
 - 📌 [Comparing React Native UI libraries](https://blog.logrocket.com/comparing-react-native-ui-libraries/)
 - 📌 [How to Create a Camera App with Expo and React Native](https://www.freecodecamp.org/news/how-to-create-a-camera-app-with-expo-and-react-native/)

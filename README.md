@@ -4,7 +4,7 @@ I'm Full Stack JavaScript developer and Technical writer, I help people learn Re
 
 
 
-- 🔭 I’m currently working on [subscribi.io]('subscribi.io').
+- 🔭 I’m currently working on [subscribi.io](https://subscribi.io).
 - 🌱 I’m currently learning Techinical documentation, and everything about JavaScript. 
 - 👯 I’m looking to collaborate on your idea and your projects.
 - 🤔 I’m looking for help with learning React Native and JavaScript

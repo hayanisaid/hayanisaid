@@ -1,6 +1,6 @@
 # Hi I'm SaiD 👋
 
-I'm Full Stack JavaScript developer and Technical writer, I help people learn React Native and JavaScript with written tutorials and blog posts.
+I'm a Frontend JavaScript developer and technical writer who uses written tutorials and blog posts to help people learn React Native and JavaScript.
 
 
 

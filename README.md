@@ -5,6 +5,8 @@ I'm a Frontend JavaScript developer and technical writer who uses written tutor
 
 
 - 🔭 I’m currently working on [subscribi.io](https://subscribi.io).
+- 💻 Coding Instructor at [Nucamp](https://www.nucamp.co/)
+- 💻 I'm currently working as React Native Developer contractor 
 - 🌱 I’m currently learning Techinical documentation, and everything about JavaScript. 
 - 👯 I’m looking to collaborate on your idea and your projects.
 - 🤔 I’m looking for help with learning React Native and JavaScript

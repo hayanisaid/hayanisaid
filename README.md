@@ -16,6 +16,9 @@ I'm a Frontend JavaScript developer and technical writer who uses written tutor
 
 # Articles and Blogs
 
+  
+  ### Serverless 
+ - 📌 [Setting up Your First AWS Lambda Deployment for a Node Application](https://earthly.dev/blog/aws-lambda-node/).
   ### NextJs🚀
 - 📌 [Next.js Basics Tutorial – Server-side Rendering, Static Sites, REST APIs, Routing, and More](https://www.freecodecamp.org/news/nextjs-basics/)
 

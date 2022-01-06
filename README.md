@@ -12,7 +12,7 @@ I'm a Frontend JavaScript developer and technical writer who uses written tutor
 - 🤔 I’m looking for help with learning React Native and JavaScript.
 - 💬 Ask me about React Native,NextJs, CSS, and JavaScript.
 - 📫 How to reach me: info.said.dev@gmail.com.
-- 😄 Pronouns: Him/His
+
 
 # Articles and Blogs
 

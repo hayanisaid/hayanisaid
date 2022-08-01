@@ -1,6 +1,6 @@
 # Hi I'm SaiD 👋
 
-I'm a Full stack JavaScript developer and technical writer who uses written tutorials and blog posts to help people learn React Native and JavaScript.
+I'm a FrontEnd Engineer and technical writer who uses written tutorials and blog posts to help people learn to code.
 
 - 🔭 [subscribi.io](https://subscribi.io).
 - 💻 Coding Instructor at [Nucamp](https://www.nucamp.co/).
